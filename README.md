@@ -15,3 +15,7 @@ https://www.electronicshub.org/variable-voltage-power-supply-from-fixed-voltage-
 
 Misc projects
 https://how2electronics.com/wireless-ac-light-dimmer-with-android-bluetooth-arduino/
+https://www.youtube.com/@MrProjectTSE/community
+
+![image](https://github.com/user-attachments/assets/d4765b14-bbcf-429a-876e-4b2a954aeaaf)
+
