@@ -6,3 +6,6 @@ https://www.eleparts.co.kr/goods/view?no=98830
 
 7805
 https://www.electronicshub.org/variable-voltage-power-supply-from-fixed-voltage-regulator/
+
+Misc projects
+https://how2electronics.com/wireless-ac-light-dimmer-with-android-bluetooth-arduino/
