@@ -17,6 +17,7 @@ Misc projects
 https://how2electronics.com/wireless-ac-light-dimmer-with-android-bluetooth-arduino/
 https://www.youtube.com/@MrProjectTSE/community
 https://www.circuits-diy.com/esp32-tutorials-control-ac-appliances-with-relay-web-server/
+http://wiki.sunfounder.cc/index.php?title=4_Channel_5V_Relay_Module
 
 ![image](https://github.com/user-attachments/assets/d4765b14-bbcf-429a-876e-4b2a954aeaaf)
 
