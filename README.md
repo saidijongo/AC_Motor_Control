@@ -4,6 +4,9 @@ ACmotor_Control
 600V triac BTA40-600B
 https://www.eleparts.co.kr/goods/view?no=98830
 
+Zero passage/ phase control
+https://www.application-datasheet.com/pdf/infineon-technologies/tca785.pdf
+
 MCU
 https://docs.espressif.com/projects/esp-idf/en/v4.2.5/esp32/hw-reference/modules-and-boards.html
 
