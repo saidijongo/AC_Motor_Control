@@ -23,3 +23,7 @@ https://www.engineersgarage.com/ssr-with-arduino-heavy-loads-control/ [temp sens
 
 ![image](https://github.com/user-attachments/assets/d4765b14-bbcf-429a-876e-4b2a954aeaaf)
 
+
+
+https://www.mouser.com/ds/2/169/kbp206_thru_kbp210-8986.pdf
+
