@@ -21,6 +21,8 @@ http://wiki.sunfounder.cc/index.php?title=4_Channel_5V_Relay_Module
 https://www.teachmemicro.com/solid-state-relay-tutorial-wifi-switch/
 https://www.engineersgarage.com/ssr-with-arduino-heavy-loads-control/ [temp sensor]
 
+https://www.instructables.com/Intel-Edison-Controlled-AC-Dimmer/
+
 ![image](https://github.com/user-attachments/assets/d4765b14-bbcf-429a-876e-4b2a954aeaaf)
 
 
