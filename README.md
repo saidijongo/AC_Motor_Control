@@ -28,4 +28,7 @@ https://www.instructables.com/Intel-Edison-Controlled-AC-Dimmer/
 
 
 https://www.mouser.com/ds/2/169/kbp206_thru_kbp210-8986.pdf
+https://forum.arduino.cc/t/optocoupler-not-trigerring-triac-on-mains-solved/406713/42
+![image](https://github.com/user-attachments/assets/12852913-a711-4fb8-aeaf-51f2e6d59896)
+
 
