@@ -23,6 +23,8 @@ https://www.engineersgarage.com/ssr-with-arduino-heavy-loads-control/ [temp sens
 
 https://www.instructables.com/Intel-Edison-Controlled-AC-Dimmer/
 
+https://bobparadiso.com/2014/07/09/audio-visualization-lamp/
+
 ![image](https://github.com/user-attachments/assets/d4765b14-bbcf-429a-876e-4b2a954aeaaf)
 
 
