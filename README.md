@@ -1,6 +1,9 @@
 # AC_Motor_Control
 ACmotor_Control
 
+Single Phase AC motor types
+https://www.xinnuomotor.com/single-phase-electric-motor/
+
 600V triac BTA40-600B
 https://www.eleparts.co.kr/goods/view?no=98830
 
