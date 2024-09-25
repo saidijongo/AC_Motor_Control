@@ -58,6 +58,6 @@ void zeroCrossISR() {
 // Fire the SSR by sending a pulse
 void fireSSR() {
   digitalWrite(SSR_PIN, HIGH);  // Turn on SSR
-  delayMicroseconds(100);  // Small delay to ensure firing (adjust if necessary)
+  delayMicroseconds(100);
   digitalWrite(SSR_PIN, LOW);  // Turn off SSR
 }
