@@ -10,9 +10,9 @@ void loop(){
   value = digitalRead(inputPin); 
   
   if (value == HIGH) {
-      Serial.println("Off (No zero-cross detected)");
+      Serial.println("OFF (No zero-cross detected)");
   } else {
-      Serial.println("On (Zero-cross detected)");
+      Serial.println("ON (Zero-cross detected)");
   }
   
   delay(1000); 
