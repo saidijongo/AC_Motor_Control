@@ -41,5 +41,6 @@ https://forum.arduino.cc/t/optocoupler-not-trigerring-triac-on-mains-solved/4067
 
 Projects:
 https://github.com/soreau/edison-iot-light-dimmer
+https://github.com/DudeYarvie/JARViE_Home_Automation_Modem
 
 
