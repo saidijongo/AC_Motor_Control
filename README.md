@@ -32,6 +32,9 @@ https://www.pcbway.com/blog/technology/4000W_Standalone_Digital_AC_Dimmer_Using_
 
 ![image](https://github.com/user-attachments/assets/d4765b14-bbcf-429a-876e-4b2a954aeaaf)
 
+![image](https://github.com/user-attachments/assets/42f6dd99-b597-478f-b70b-7d074a5d65d5)
+
+
 
 
 https://www.mouser.com/ds/2/169/kbp206_thru_kbp210-8986.pdf
