@@ -8,6 +8,9 @@ https://www.taraztechnologies.com/Downloads/Datasheets/SPM-VFD.pdf
 600V triac BTA40-600B
 https://www.eleparts.co.kr/goods/view?no=98830
 
+DRIVER IC
+https://www.infineon.com/dgdl/Infineon-IRS2453D-DataSheet-v02_00-EN.pdf?fileId=5546d462533600a40153567ac42f2814
+
 Zero passage/ phase control
 https://www.application-datasheet.com/pdf/infineon-technologies/tca785.pdf
 
