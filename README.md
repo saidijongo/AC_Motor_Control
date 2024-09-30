@@ -40,6 +40,7 @@ https://github.com/dfantonio/Single-Phase-Inverter-with-STM32F411/tree/master[fu
 
 https://github.com/mbeddedbk/V-f-control-based-on-stm32h735g-dk [GUI 3p]
 https://embeddedlightning.com/download/stm32-cubemx-lut/[stm32 code]
+https://embeddedlightning.com/linearisierte-ansteuerung-von-triacs/
 
 ![image](https://github.com/user-attachments/assets/d4765b14-bbcf-429a-876e-4b2a954aeaaf)
 
