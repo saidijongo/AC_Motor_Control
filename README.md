@@ -28,6 +28,8 @@ https://www.instructables.com/Intel-Edison-Controlled-AC-Dimmer/
 
 https://bobparadiso.com/2014/07/09/audio-visualization-lamp/
 
+https://github.com/RobotDynOfficial/RBDDimmer [ARDUINO LIB]
+
 https://www.pcbway.com/blog/technology/4000W_Standalone_Digital_AC_Dimmer_Using_STM32.html
 
 ![image](https://github.com/user-attachments/assets/d4765b14-bbcf-429a-876e-4b2a954aeaaf)
