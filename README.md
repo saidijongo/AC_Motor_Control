@@ -3,6 +3,7 @@ ACmotor_Control
 
 Single Phase AC motor types
 https://www.xinnuomotor.com/single-phase-electric-motor/
+https://www.taraztechnologies.com/Downloads/Datasheets/SPM-VFD.pdf
 
 600V triac BTA40-600B
 https://www.eleparts.co.kr/goods/view?no=98830
