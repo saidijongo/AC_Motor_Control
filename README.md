@@ -62,3 +62,5 @@ https://github.com/willjschmitt/electric-vehicle-controller
 
 https://github.com/Egoruch/Zero-Crossing-Detector-STM32-HAL/tree/master?tab=readme-ov-file [russian]
 
+https://github.com/Egoruch/Buzzer-STM32-HAL/tree/main [buzzer]
+
