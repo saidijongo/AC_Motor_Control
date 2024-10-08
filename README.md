@@ -60,3 +60,5 @@ https://github.com/DudeYarvie/JARViE_Home_Automation_Modem
 https://github.com/willjschmitt/electric-vehicle-controller[EV]
 https://github.com/willjschmitt/electric-vehicle-controller
 
+https://github.com/Egoruch/Zero-Crossing-Detector-STM32-HAL/tree/master?tab=readme-ov-file [russian]
+
