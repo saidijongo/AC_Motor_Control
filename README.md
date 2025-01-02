@@ -67,3 +67,6 @@ https://github.com/Egoruch/Buzzer-STM32-HAL/tree/main [buzzer]
 https://www.leoncycle.com.au/blog/electric-bikes/benefits-of-torque-sensor-in-e-bikes/[EBIKES-TQ SENSORED]
 https://deepbluembedded.com/stm32-buzzer-piezo-active-passive-buzzer-example-code-tone/[BUZZER]
 
+![image](https://github.com/user-attachments/assets/876d9156-af1e-4a94-a454-79727eb9b6d3)
+
+
